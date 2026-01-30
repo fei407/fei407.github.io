@@ -25,14 +25,23 @@ My research interests focus on **Parameter-Efficient Fine-Tuning**, **Federated 
 
 ## Selected Publications
 
-- **Fei Wu**, XXX, XXX.  
-  *Title of the Paper*.  
-  *Conference / Journal*, Year.  
-  [[PDF]](#) [[Code]](#)
+- *Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation*.  
+  *Submitted to the Fourteenth International Conference on Learning Representations (ICLR 2026)*.  
+  [[OpenReview]](https://openreview.net/forum?id=FSHrinMArK)
 
-- **Fei Wu**, XXX.  
-  *Another Paper Title*.  
-  *Conference*, Year.
+  
+- **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang.  
+  *Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models*.  
+  **IEEE Transactions on Computers (TC)**, accepted, 2025.  
+  [[DOI]](https://doi.org/10.1109/TC.2026.3655161)
+
+- Ye Liu, **Fei Wu**, Neng Zhao, Qirong Zhang, Wenqiang Wang, Yutong Yang,  
+  Xiangting Li, Sixu Li, Zili Huang, Shuang Hao, Guangbin Ou, Liang Zhou,  
+  Liang Chang, Shuisheng Lin, Ningyi Xu, Jun Zhou.  
+  *NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN*.  
+  **IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II) **,  
+  vol. 70, no. 1, pp. 271–275, 2023.  
+  [[DOI]](https://doi.org/10.1109/TCSII.2022.3207009)
 
 
 ---
