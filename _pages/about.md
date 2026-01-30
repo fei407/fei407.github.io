@@ -27,7 +27,7 @@ My research interests focus on **Parameter-Efficient Fine-Tuning**, **Federated 
 
 - **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang.  
   *Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation*.  
-  **International Conference on Learning Representations (ICLR)**, 2026.  
+  *International Conference on Learning Representations (ICLR)*, 2026.  
   [[OpenReview]](https://openreview.net/forum?id=FSHrinMArK)
   
 - **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang.  
