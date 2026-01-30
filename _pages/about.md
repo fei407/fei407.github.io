@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Fei Wu, Ph.D. Student at University of Exeter"
-author_profile: true
+title: "Fei Wu"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
