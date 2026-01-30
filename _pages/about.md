@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ## Overview
+I am a Ph.D. student in the Department of Computer Science at the University of Exeter, United Kingdom. I am supervised by Prof. Jia Hu and Prof. Geyong Min at the Department of Computer Science, University of Exeter, United Kingdom. I also work closely with Prof. Shiqiang Wang.
 
-I am a PhD student in Computer Science at the University of Exeter, supervised by Prof. Jia Hu and Prof. Geyong Min.  
-My research interests focus on **parameter-efficient fine-tuning**, **federated fine-tuning for foundation models**, **efficient AI systems**, and **algorithm–hardware co-design**.
+My research interests focus on **Parameter-Efficient Fine-Tuning**, **Federated Fine-Tuning for Foundation Models**, **Efficient AI Systems**, and **Algorithm–Hardware Co-design**.
 
 ---
 
@@ -33,11 +33,10 @@ My research interests focus on **parameter-efficient fine-tuning**, **federated 
   *Another Paper Title*.  
   *Conference*, Year.
 
-👉 See the full list on the [Publications](/publications/) page.
 
 ---
 
-### Reviewer
+## Servers
 - International Conference on Machine Learning (ICML)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NeurIPS)
