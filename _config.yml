@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "portrait.jpg"
   name             : "Fei Wu"
-  pronouns         : "he/him"
-  bio              : "I'm a Ph.D. student in the Department of Computer Science at University of Exeter."
-  location         : "UK"
-  employer         : "University of Exeter"
+  pronouns         : # URL
+  bio              : "A Ph.D. student in the Department of Computer Science at University of Exeter."
+  location         : # URL
+  employer         : # URL
   uri              : # URL
   email            : "fw407@exeter.ac.uk"
 
