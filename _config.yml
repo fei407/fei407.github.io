@@ -23,7 +23,7 @@ repository               : "fei407/fei407.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portrait-2.jpg"
+  avatar           : "portrait.jpg"
   name             : "Fei Wu"
   pronouns         : # URL
   bio              : "PhD student, University of Exeter."
