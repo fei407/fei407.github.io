@@ -14,26 +14,8 @@ main:
   - title: "Publications"
     url: /#selected-publications
 
-#  - title: "Talks"
-#    url: /talks/
-#
-#  - title: "Teaching"
-#    url: /teaching/
-#
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-
   - title: "Awards"
     url: /#selected-publications
 
   - title: "Servers"
     url: /#selected-publications
-
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
