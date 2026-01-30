@@ -26,7 +26,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Fei Wu"
   pronouns         : # URL
-  bio              : "A Ph.D. student in the Department of Computer Science at University of Exeter."
+  bio              : "PhD student, University of Exeter."
   location         : # URL
   employer         : # URL
   uri              : # URL
@@ -222,7 +222,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -231,7 +231,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
