@@ -36,7 +36,7 @@ My research interests focus on **Parameter-Efficient Fine-Tuning**, **Federated 
 
 ---
 
-## Servers
+## Services
 - International Conference on Machine Learning (ICML)
 - International Conference on Learning Representations (ICLR)
 - Conference on Neural Information Processing Systems (NeurIPS)
