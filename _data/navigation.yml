@@ -12,10 +12,10 @@ main:
   - url: /#news
 
   - title: "Publications"
-    url: /#selected-publications
+    url: /#publications
 
   - title: "Awards"
-    url: /#selected-publications
+    url: /#awards
 
-  - title: "Servers"
-    url: /#selected-publications
+  - title: "Services"
+    url: /#services
