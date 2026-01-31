@@ -22,9 +22,9 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ## News
 
-- **Jan.2026** Our paper *PSOFT* is accepted by **ICLR 2026**.
-- **Jan.2026** Our paper *FedARA* is accepted by **IEEE Transactions on Computers**.
-- **Oct.2024** Awarded the *Limetree Capital PhD Scholarship* (£5,000).
+- **Jan.2026** Our paper **PSOFT** is accepted by *ICLR 2026*.
+- **Jan.2026** Our paper **FedARA** is accepted by *IEEE Transactions on Computers*.
+- **Oct.2024** Awarded the **Limetree Capital PhD Scholarship** (£5,000).
 - **Oct.2023** Started PhD at the University of Exeter.
 
 ---
