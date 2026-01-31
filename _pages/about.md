@@ -49,7 +49,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 ## Awards
 - Limetree Capital PhD Scholarship (2024–2027)
 - Outstanding Graduate, Sichuan Province (2022)
-- Outstanding Graduate, University of Electronic Science and Technology of China (UESTC) (2022)
+- Outstanding Graduate, UESTC (2022)
 - First-Class Academic Scholarship (2021)
 - National Third Prize, China Graduate Circuit Design Contest (2021)
 - National Third Prize, China Graduate Electronics Design Contest (2021)
