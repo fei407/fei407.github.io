@@ -13,7 +13,7 @@ under the supervision of [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-h
 I also work in close collaboration with [Prof. Shiqiang Wang](https://shiqiang.wang/).
 I received my M.Eng. degree in Electronic and Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
-My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-Tuning for Foundation Models, Efficient AI Systems, and Algorithm–Hardware Co-design.
+My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-Tuning for Foundation Models, Efficient AI Systems, and Algorithm-Hardware Co-design.
 
 My Ph.D. study is fully funded by the China Scholarship Council and the University of Exeter.
 
