@@ -45,16 +45,17 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ---
 
-
 ## Awards
 ### Competitions
 - National Third Prize, The China Graduate Circuit Design Contest (2021)
 - National Third Prize, The China Graduate Electronics Design Contest (2021)
 - National Second Prize, The China Graduate Electronics Design Contest (2020)
 - National Second Prize, Huawei Special Competition, The China Graduate Electronics Design Contest (2020)
+
 ### Honors
 - Outstanding Graduate, Sichuan Province (2022)
 - Outstanding Graduate, UESTC (2022)
+
 ### Scholarships
 - Limetree Capital PhD Scholarship (2024–2027)
 - First-Class Academic Scholarship (2021)
