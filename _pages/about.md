@@ -21,25 +21,26 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 
 ## News
-
-- **Jan.2026** Our paper **PSOFT** is accepted by *ICLR 2026*.
-- **Jan.2026** Our paper **FedARA** is accepted by *IEEE Transactions on Computers*.
-- **Oct.2024** Awarded the **Limetree Capital PhD Scholarship** (£5,000).
-- **Oct.2023** Started PhD at the University of Exeter.
+- **Jan. 2026** **PSOFT** was accepted to *ICLR 2026*.
+- **Jan. 2026** **FedARA** was accepted to *IEEE Transactions on Computers*.
+- **Dec. 2025** Completed AMD training on *Accelerating Your Application with AMD GPUs*.
+- **Mar. 2025** Attended the *Flower AI Summit 2025* in London, UK.
+- **Dec. 2024** Completed NVIDIA training on *Efficient Large Language Model (LLM) Customization*.
+- **Oct. 2024** Awarded the **Limetree Capital PhD Scholarship** (£5,000).
+- **Oct. 2023** Started PhD at the University of Exeter.
 
 ---
 
 ## Selected Publications
-
-- ### [ICLR'26] Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation [[OpenReview]](https://openreview.net/forum?id=FSHrinMArK)  
+- ### [ICLR'26] Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation [[Paper]](https://openreview.net/forum?id=FSHrinMArK) [[Code]](https://github.com/fei407/PSOFT) 
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
   _The Fourteenth International Conference on Learning Representations (ICLR 2026)_, 2026. 
   
-- ### [TC] Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models [[DOI]](https://doi.org/10.1109/TC.2026.3655161)  
+- ### [TC] Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models [[Paper]](https://doi.org/10.1109/TC.2026.3655161)  
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
   _IEEE Transactions on Computers (TC)_, Accepted, 2026. 
 
-- ### [TCAS-II] NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN [[DOI]](https://doi.org/10.1109/TCSII.2022.3207009)  
+- ### [TCAS-II] NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN [[Paper]](https://doi.org/10.1109/TCSII.2022.3207009)  
   Ye Liu, **Fei Wu**, Neng Zhao, Qirong Zhang, Wenqiang Wang, Yutong Yang, Xiangting Li, Sixu Li, Zili Huang, Shuang Hao, Guangbin Ou, Liang Zhou, Liang Chang, Shuisheng Lin, Ningyi Xu, Jun Zhou  
   _IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)_, vol. 70, no. 1, pp. 271–275, 2023. 
 
@@ -58,13 +59,13 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ### Scholarships
 - Limetree Capital PhD Scholarship (2024–2027)
+- China Scholarship Council and the University of Exeter (2023-2027)
 - First-Class Academic Scholarship (2021)
-- Outstanding Student Scholarship, Chengdu University of Technology (CDUT) (2016–2018)
 
 ---
 
 ## Services as Reviewer
-- The Forty-Third International Conference on Machine Learning (ICML 2026)
+[//]: # (- The Forty-Third International Conference on Machine Learning &#40;ICML 2026&#41;)
 - IEEE Internet of Things Journal (IoT-J)
 - IEEE Transactions on Computers (TC)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
@@ -74,8 +75,8 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 ---
 
 ## Trainings and Workshops
-- **Dec.2025** Completed AMD training on *Accelerating Your Application with AMD GPUs*.
-- **Mar.2025** Attended the *Flower AI Summit 2025* in London, UK.
-- **Dec.2024** Completed NVIDIA training on *Efficient Large Language Model (LLM) Customization*.
+- Completed AMD's training on *Accelerating Your Application with AMD GPUs*. (2025)
+- Attended the *Flower AI Summit 2025* in London, UK. (2025)
+- Completed NVIDIA's training on *Efficient Large Language Model (LLM) Customization*. (2024)
 
 
