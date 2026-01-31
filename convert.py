@@ -11,4 +11,7 @@ img_32.save("mushroom_32x32.png")
 img_192 = img.resize((192, 192), Image.LANCZOS)
 img_192.save("mushroom_192x192.png")
 
+img_192 = img.resize((180, 180), Image.LANCZOS)
+img_192.save("mushroom_180x180.png")
+
 print("Icons generated: 32x32 and 192x192")
