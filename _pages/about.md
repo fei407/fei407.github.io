@@ -21,8 +21,8 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 
 ## News
-- [Jan. 2026] Our paper**PSOFT** was accepted to *ICLR 2026*.
-- [Jan. 2026] Our paper **FedARA** was accepted to *IEEE Transactions on Computers*.
+- [Jan. 2026] Our paper [PSOFT](https://openreview.net/forum?id=FSHrinMArK) was accepted to *ICLR 2026*.
+- [Jan. 2026] Our paper [FedARA](https://doi.org/10.1109/TC.2026.3655161) was accepted to *IEEE Transactions on Computers*.
 - [Dec. 2025] Completed AMD training on *Accelerating Your Application with AMD GPUs*.
 - [Mar. 2025] Attended the *Flower AI Summit 2025* in London, UK.
 - [Dec. 2024] Completed NVIDIA training on *Efficient Large Language Model (LLM) Customization*.
