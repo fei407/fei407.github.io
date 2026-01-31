@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## Overview
-I am currently a third-year Ph.D. student in the Department of Computer Science at the University of Exeter, United Kingdom, 
-supervised by [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min).
+I am currently a third-year Ph.D. student in the Department of Computer Science at the University of Exeter, UK, 
+under the supervision of [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min).
 I also work in close collaboration with [Prof. Shiqiang Wang](https://shiqiang.wang/).
 I received my M.Eng. degree in Electronic and Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
