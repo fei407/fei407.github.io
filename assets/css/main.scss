@@ -41,3 +41,44 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* =====================================
+   Sidebar (left / right) size adjustment
+   ===================================== */
+
+/* overall sidebar text */
+.sidebar {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* author name */
+.sidebar .author__name {
+  font-size: 1.7rem;
+}
+
+/* author bio */
+.sidebar .author__bio {
+  font-size: 1.1rem;
+}
+
+/* sidebar links text */
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  font-size: 1.1rem;
+}
+
+/* icons: Font Awesome + Academicons */
+.sidebar .author__urls i,
+.sidebar .author__urls .ai,
+.sidebar .author__urls .fas,
+.sidebar .author__urls .fab {
+  font-size: 1.35rem;
+  vertical-align: middle;
+}
+
+/* avatar size */
+.sidebar .author__avatar img {
+  max-width: 160px;
+}
+
