@@ -2,8 +2,6 @@
 permalink: /
 title: "Fei Wu (吴飞)"
 author_profile: true
-layout: single
-classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -11,7 +9,7 @@ redirect_from:
 
 ## Overview
 I am currently a third-year Ph.D. student in the Department of Computer Science at the University of Exeter, United Kingdom, 
-under the supervision of [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min)
+supervised by [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min)
 I also work in close collaboration with [Prof. Shiqiang Wang](https://shiqiang.wang/).
 I received my M.Eng. degree in Electronic and Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2022.
 
