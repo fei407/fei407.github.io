@@ -15,13 +15,17 @@ I received my M.Eng. degree in Electronic and Communication Engineering from the
 
 My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-Tuning for Foundation Models, Efficient AI Systems, and Algorithm–Hardware Co-design.
 
+My Ph.D. study is fully funded by the China Scholarship Council and the University of Exeter.
+
 ---
+
 
 ## News
 
-- **2025.XX** &nbsp; Paper submitted to *ICML 2026*.
-- **2024.XX** &nbsp; Started PhD at the University of Exeter.
-
+- **Jan.2026** Our paper *PSOFT* accepted by **ICLR 2026**.
+- **Jan.2026** Our paper *FedARA* accepted by **IEEE Transactions on Computers**.
+- **Oct.2024** Awarded the *Limetree Capital PhD Scholarship* (£5,000).
+- **Oct.2023** Started PhD at the University of Exeter.
 
 ---
 
@@ -41,14 +45,32 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 ---
 
+
 ## Awards
-- International Conference on Machine Learning (ICML)
-- International Conference on Learning Representations (ICLR)
-- Conference on Neural Information Processing Systems (NeurIPS)
+- Limetree Capital PhD Scholarship (2024–2027)
+- Outstanding Graduate, Sichuan Province (2022)
+- Outstanding Graduate, University of Electronic Science and Technology of China (UESTC) (2022)
+- First-Class Academic Scholarship (2021)
+- National Third Prize, China Graduate Circuit Design Contest (2021)
+- National Third Prize, China Graduate Electronics Design Contest (2021)
+- National Second Prize, China Graduate Electronics Design Contest (2020)
+- National Second Prize, Huawei Special Competition, China Graduate Electronics Design Contest (2020)
 
 ---
 
-## Services
-- International Conference on Machine Learning (ICML)
-- International Conference on Learning Representations (ICLR)
-- Conference on Neural Information Processing Systems (NeurIPS)
+## Services as Reviewer
+- The Forty-Third International Conference on Machine Learning (ICML 2026)
+- IEEE Internet of Things Journal (IoT-J)
+- IEEE Transactions on Computers (TC)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- The 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2025)
+- The 27th IEEE International Conference on High, Performance Computing and Communications (HPCC 2025)
+
+---
+
+## Trainings and Workshops
+- **Dec.2025** Completed AMD training on *Accelerating Your Application with AMD GPUs*.
+- **Mar.2025** Attended the *Flower AI Summit 2025* in London, UK.
+- **Dec.2024** Completed NVIDIA training on *Efficient Large Language Model (LLM) Customization*.
+
+
