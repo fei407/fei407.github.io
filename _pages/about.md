@@ -15,7 +15,7 @@ I received my M.Eng. degree in Electronic and Communication Engineering from the
 
 My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-Tuning for Foundation Models, Efficient AI Systems, and Algorithm-Hardware Co-design.
 
-My Ph.D. study is fully funded by the China Scholarship Council and the University of Exeter.
+My Ph.D. study is fully funded by the China Scholarship Council and the University of Exeter (CSC-Exeter).
 
 ---
 
@@ -59,7 +59,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ### Scholarships
 - Limetree Capital PhD Scholarship (2024–2027)
-- China Scholarship Council and the University of Exeter (2023-2027)
+- China Scholarship Council and the University of Exeter (CSC-Exeter) (2023-2027)
 - First-Class Academic Scholarship (2021)
 
 ---
