@@ -75,8 +75,8 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 ---
 
 ## Trainings and Workshops
-- Completed AMD's training on *Accelerating Your Application with AMD GPUs*. (2025)
-- Attended the *Flower AI Summit 2025* in London, UK. (2025)
-- Completed NVIDIA's training on *Efficient Large Language Model (LLM) Customization*. (2024)
+- Accelerating Your Application with AMD GPUs. (2025)
+- Flower AI Summit 2025 in London, UK. (2025)
+- Efficient Large Language Model (LLM) Customization. (2024)
 
 
