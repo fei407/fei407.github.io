@@ -82,3 +82,15 @@
   max-width: 160px;
 }
 
+/* =====================================
+   Wider main content area
+   ===================================== */
+
+@media (min-width: 1200px) {
+  .page__inner-wrap,
+  .archive,
+  .initial-content,
+  .masthead__inner-wrap {
+    max-width: 1500px;
+  }
+}
