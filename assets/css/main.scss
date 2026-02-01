@@ -47,21 +47,22 @@
    ===================================== */
 
 /* overall sidebar text */
-.sidebar {
-  font-size: 1.1rem;
-  line-height: 1.6;
+.sidebar .author__content {
+  text-align: center;
 }
 
 /* author name */
 .sidebar .author__name {
   font-size: 1.5rem;
-  text-align: center;
+  margin: 0.6rem 0 0.2rem;
 }
 
 /* author bio */
 .sidebar .author__bio {
   font-size: 1.1rem;
-  text-align: center;
+  line-height: 1.4;
+  max-width: 220px;   /* 控制视觉宽度 */
+  margin: 0 auto;     /* 真正居中 */
 }
 
 /* sidebar links text */
