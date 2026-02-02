@@ -26,7 +26,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 - [Dec. 2025] Completed AMD training on *Accelerating Your Application with AMD GPUs*.
 - [Mar. 2025] Attended the [Flower AI Summit 2025](https://flower.ai/events/flower-ai-summit-2025/) in London, UK.
 - [Dec. 2024] Completed NVIDIA training on *Efficient Large Language Model (LLM) Customization*.
-- [Oct. 2024] Awarded the **Limetree Capital PhD Scholarship** (£5,000).
+- [Oct. 2024] Awarded the **Limetree Capital PhD Scholarship**.
 - [Oct. 2023] Started PhD at the University of Exeter.
 
 ---
@@ -36,11 +36,11 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
   _The Fourteenth International Conference on Learning Representations (ICLR 2026)_, 2026. 
   
-- ### [TC] Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models [[Paper]](https://doi.org/10.1109/TC.2026.3655161)  
+- ### [IEEE TC] Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models [[Paper]](https://doi.org/10.1109/TC.2026.3655161)  
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
   _IEEE Transactions on Computers (TC)_, Accepted, 2026. 
 
-- ### [TCAS-II] NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN [[Paper]](https://doi.org/10.1109/TCSII.2022.3207009)  
+- ### [IEEE TCAS-II] NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN [[Paper]](https://doi.org/10.1109/TCSII.2022.3207009)  
   Ye Liu, **Fei Wu**, Neng Zhao, Qirong Zhang, Wenqiang Wang, Yutong Yang, Xiangting Li, Sixu Li, Zili Huang, Shuang Hao, Guangbin Ou, Liang Zhou, Liang Chang, Shuisheng Lin, Ningyi Xu, Jun Zhou  
   _IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)_, vol. 70, no. 1, pp. 271–275, 2023. 
 
@@ -64,13 +64,14 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ---
 
-## Services as Reviewer
-- The Forty-Third International Conference on Machine Learning (ICML 2026)
-- IEEE Transactions on Parallel and Distributed Systems (TPDS)
-- IEEE Transactions on Computers (TC)
-- IEEE Internet of Things Journal (IoT-J)
-- The 24th IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom 2025)
-- The 27th IEEE International Conference on High, Performance Computing and Communications (HPCC 2025)
+## Services
+### Reviewer
+- Conference: ICML'26, ICLR'26, AAAI'26, TrustCom'25, HPCC'25
+- Journal: IEEE TPDS, IEEE TC, IEEE IoTJ
+### Supervision
+Mentored an undergraduate student ([Harry Min](https://www.linkedin.com/in/harry-min/)) from the University of Cambridge on a summer research project 
+at Department of Computer Science, University of Exeter (Aug. - Sept. 2024), under the supervision of Prof. Jia Hu.
+
 
 ---
 
