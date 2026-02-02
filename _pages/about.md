@@ -65,7 +65,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 ---
 
 ## Services as Reviewer
-[//]: # (- The Forty-Third International Conference on Machine Learning &#40;ICML 2026&#41;)
+- The Forty-Third International Conference on Machine Learning (ICML 2026)
 - IEEE Internet of Things Journal (IoT-J)
 - IEEE Transactions on Computers (TC)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
