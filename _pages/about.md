@@ -54,7 +54,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 - National Second Prize, Huawei Special Competition, The China Graduate Electronics Design Contest (2020)
 
 ### Honors
-- Outstanding Graduate, Sichuan Province (2022) (**nominated from Top 32** in the Department)
+- Outstanding Graduate, Sichuan Province (2022) (**nominated from Top 32** in Department)
 - Outstanding Graduate, University of Electronic Science and Technology of China (2022)
 
 ### Scholarships
@@ -65,7 +65,7 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ## Services
 ### Reviewer
-- Conference: **ICML'26, ICLR'26, AAAI'26,** ICDCS‘24, TrustCom'25, HPCC'25, ICESS’25, IUCC‘24
+- Conference: **ICML'26, ICLR'26, AAAI'26,** ICDCS‘24, TrustCom'25, HPCC'25
 - Journal: IEEE TPDS, IEEE TC, IEEE IoTJ, IEEE TAI
 
 ### Supervision
@@ -75,8 +75,8 @@ at Department of Computer Science, University of Exeter (Aug. - Sept. 2024), und
 ---
 
 ## Trainings and Workshops
-- AMD Training - Accelerating Your Application with AMD GPUs. (2025)
-- Flower AI Summit 2025 in London, UK. (2025)
-- NVIDIA Training - Efficient Large Language Model (LLM) Customization. (2024)
+- AMD Training - Accelerating Your Application with AMD GPUs (2025)
+- Flower AI Summit 2025 in London, UK (2025)
+- NVIDIA Training - Efficient Large Language Model (LLM) Customization (2024)
 
 
