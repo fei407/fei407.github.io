@@ -49,13 +49,13 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 ## Awards
 ### Competitions
 - National Third Prize, The China Graduate Circuit Design Contest (2021)
-- National Third Prize, The China Graduate Electronics Design Contest (2021)
-- National Second Prize, The China Graduate Electronics Design Contest (2020)
+- National Third Prize, The China Graduate Electronics Design Contest (2021) (**Top 8.3%**)
+- National Second Prize, The China Graduate Electronics Design Contest (2020) (**Top 3.7%**)
 - National Second Prize, Huawei Special Competition, The China Graduate Electronics Design Contest (2020)
 
 ### Honors
-- Outstanding Graduate, Sichuan Province (2022)
-- Outstanding Graduate, UESTC (2022)
+- Outstanding Graduate, Sichuan Province (2022) (nominated from Top 32 in the Department)
+- Outstanding Graduate, University of Electronic Science and Technology of China (2022)
 
 ### Scholarships
 - Limetree Capital PhD Scholarship (2024–2027)
@@ -66,18 +66,18 @@ My Ph.D. study is fully funded by the China Scholarship Council and the Universi
 
 ## Services
 ### Reviewer
-- Conference: ICML'26, ICLR'26, AAAI'26, TrustCom'25, HPCC'25
-- Journal: IEEE TPDS, IEEE TC, IEEE IoTJ
+- Conference: ICML'26, ICLR'26, AAAI'26, ICDCS‘24, TrustCom'25, HPCC'25, ICESS’25, IUCC‘24, TrustCom'23
+- Journal: IEEE TPDS, IEEE TC, IEEE IoTJ， IEEE TAI
+
 ### Supervision
 Mentored an undergraduate student ([Harry Min](https://www.linkedin.com/in/harry-min/)) from the University of Cambridge on a summer research project 
 at Department of Computer Science, University of Exeter (Aug. - Sept. 2024), under the supervision of Prof. Jia Hu.
 
-
 ---
 
 ## Trainings and Workshops
-- Accelerating Your Application with AMD GPUs. (2025)
+- AMD Training - Accelerating Your Application with AMD GPUs. (2025)
 - Flower AI Summit 2025 in London, UK. (2025)
-- Efficient Large Language Model (LLM) Customization. (2024)
+- NVIDIA Training - Efficient Large Language Model (LLM) Customization. (2024)
 
 
