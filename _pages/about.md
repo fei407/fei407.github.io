@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Overview
-I am currently a third-year Ph.D. student in the Department of Computer Science at the University of Exeter, United Kingdom, 
+I am a fully funded Ph.D. student in the Department of Computer Science at the University of Exeter, United Kingdom,
 supervised by [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min).
 I also work in close collaboration with [Prof. Shiqiang Wang](https://shiqiang.wang/).
 I received my M.Eng. degree in Electronic and Communication Engineering from the University of Electronic Science and Technology of China (UESTC) in 2022.
@@ -56,7 +56,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 - Outstanding Graduate, University of Electronic Science and Technology of China (2022)
 
 ### Scholarships
-- The Limetree Capital PhD Scholarship (2024-2027)
+- Fully funded scholarship with additional doctoral funding support (2023-2027)
 - First-Class Academic Scholarship of UESTC (2021)
 
 ---
