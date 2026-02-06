@@ -15,7 +15,6 @@ I received my M.Eng. degree in Electronic and Communication Engineering from the
 
 My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-Tuning for Foundation Models, Algorithm-Hardware Co-design, and Efficient AI Systems for resource-constrained environments.
 
-
 ---
 
 
