@@ -19,6 +19,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 
 ## News
+- [Feb. 2026] **PSOFT** has been officially integrated into the 🤗 [HuggingFace PEFT library](https://github.com/huggingface/peft).
 - [Jan. 2026] Our paper [PSOFT](https://openreview.net/forum?id=FSHrinMArK) was accepted to **ICLR 2026**.
 - [Jan. 2026] Our paper [FedARA](https://doi.org/10.1109/TC.2026.3655161) was accepted to **IEEE Transactions on Computers**.
 - [Dec. 2025] Completed AMD training on *Accelerating Your Application with AMD GPUs*.
