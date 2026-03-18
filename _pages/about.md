@@ -33,15 +33,15 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 ## Selected Publications
 - ### [ICLR'26] Efficient Orthogonal Fine-Tuning with Principal Subspace Adaptation [[Paper]](https://openreview.net/forum?id=FSHrinMArK) [[Code]](https://github.com/fei407/PSOFT) 
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
-  _The Fourteenth International Conference on Learning Representations (ICLR 2026)_, 2026. 
+  _The Fourteenth International Conference on Learning Representations (ICLR 2026)_, Apr 2026. 
   
 - ### [IEEE TC] Adaptive Rank Allocation for Federated Parameter-Efficient Fine-Tuning of Language Models [[Paper]](https://doi.org/10.1109/TC.2026.3655161)  
   **Fei Wu**, Jia Hu, Geyong Min, Shiqiang Wang  
-  _IEEE Transactions on Computers (TC)_, Accepted, 2026. 
+  _IEEE Transactions on Computers (TC)_, vol. 75, no. 4, pp. 1650-1663, Apr 2026. 
 
 - ### [IEEE TCAS-II] NVP: A Flexible and Efficient Processor Architecture for Accelerating Diverse Computer Vision Tasks including DNN [[Paper]](https://doi.org/10.1109/TCSII.2022.3207009)  
   Ye Liu, **Fei Wu**, Neng Zhao, Qirong Zhang, Wenqiang Wang, Yutong Yang, Xiangting Li, Sixu Li, Zili Huang, Shuang Hao, Guangbin Ou, Liang Zhou, Liang Chang, Shuisheng Lin, Ningyi Xu, Jun Zhou  
-  _IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)_, vol. 70, no. 1, pp. 271–275, 2023. 
+  _IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)_, vol. 70, no. 1, pp. 271–275, Jan 2023. 
 
 ---
 
