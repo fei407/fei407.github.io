@@ -19,8 +19,9 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 
 ## News
+- [Apr. 2026] Attended **ICLR 2026** in Rio de Janeiro, Brazil, where I presented our work **PSOFT** as a [poster](https://iclr.cc/virtual/2026/poster/10010597) and enjoyed many inspiring discussions with researchers.
 - [Apr. 2026] Attended the [Flower AI Summit 2026](https://flower.ai/events/flower-ai-summit-2026/) in London, UK, where I presented a poster on our work [FedARA](https://doi.org/10.1109/TC.2026.3655161).
-- [Mar. 2026] Gave a online talk on **PSOFT** at [SPARKS](https://aiedge.osu.edu/sparks-students-and-postdocs-gathering-ai-research-and-knowledge-sharing), The Ohio State University, on Mar. 25, 2026.
+- [Mar. 2026] Gave an online talk on **PSOFT** at [SPARKS](https://aiedge.osu.edu/sparks-students-and-postdocs-gathering-ai-research-and-knowledge-sharing), The Ohio State University, on Mar. 25, 2026.
 - [Feb. 2026] **PSOFT** has been officially integrated into the 🤗 [HuggingFace PEFT library](https://github.com/huggingface/peft).
 - [Jan. 2026] Our paper [PSOFT](https://openreview.net/forum?id=FSHrinMArK) was accepted to **ICLR 2026**.
 - [Jan. 2026] Our paper [FedARA](https://doi.org/10.1109/TC.2026.3655161) was accepted to **IEEE Transactions on Computers**.
