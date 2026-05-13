@@ -19,6 +19,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 
 ## News
+- [May. 2026] Honored to be recognized as a **Gold Reviewer** for **ICML 2026**.
 - [Apr. 2026] Attended **ICLR 2026** in Rio de Janeiro, Brazil, where I presented our work **PSOFT** as a [poster](https://iclr.cc/virtual/2026/poster/10010597) and enjoyed many inspiring discussions with researchers.
 - [Apr. 2026] Attended the [Flower AI Summit 2026](https://flower.ai/events/flower-ai-summit-2026/) in London, UK, where I presented a poster on our work [FedARA](https://doi.org/10.1109/TC.2026.3655161).
 - [Mar. 2026] Gave an online talk on **PSOFT** at [SPARKS](https://aiedge.osu.edu/sparks-students-and-postdocs-gathering-ai-research-and-knowledge-sharing), The Ohio State University, on Mar. 25, 2026.
@@ -67,7 +68,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 ## Services
 ### Reviewer
-- Conference: **ICML'26, ICLR'26, AAAI'26,** ICDCS‘24, TrustCom'25, HPCC'25
+- Conference: **ICML'26 (Gold Reviewer), ICLR'26, AAAI'26,** ICDCS‘24, TrustCom'25, HPCC'25
 - Journal: IEEE TPDS, IEEE TC, IEEE IoTJ, IEEE TAI
 
 ### Supervision
