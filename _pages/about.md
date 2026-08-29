@@ -68,7 +68,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 ## Services
 ### Reviewer
-- Conference: **ICML'26 (Gold Reviewer), ICLR'26, AAAI'26,** ICDCS‘24, TrustCom'25, HPCC'25
+- Conference: **ICLR'27, AAAI'27, ICML'26 (Gold Reviewer), ICLR'26, AAAI'26,** ICA3PP’26, ICDCS‘24, TrustCom'25, HPCC'25
 - Journal: IEEE TPDS, IEEE TC, IEEE IoTJ, IEEE TAI
 
 ### Supervision
