@@ -19,6 +19,7 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 
 ## News
+- [Oct. 2026] Honored to be recognized as a **Top Reviewer** for **NeurIPS 2026**.
 - [May. 2026] Honored to be recognized as a **Gold Reviewer** for **ICML 2026**.
 - [Apr. 2026] Attended **ICLR 2026** in Rio de Janeiro, Brazil, where I presented our work **PSOFT** as a [poster](https://iclr.cc/virtual/2026/poster/10010597) and enjoyed many inspiring discussions with researchers.
 - [Apr. 2026] Attended the [Flower AI Summit 2026](https://flower.ai/events/flower-ai-summit-2026/) in London, UK, where I presented a poster on our work [FedARA](https://doi.org/10.1109/TC.2026.3655161).
@@ -68,8 +69,8 @@ My research interests focus on Parameter-Efficient Fine-Tuning, Federated Fine-T
 
 ## Services
 ### Reviewer
-- Conference: **ICLR'27, AAAI'27, ICML'26 (Gold Reviewer), ICLR'26, AAAI'26,** ICA3PP’26, ICDCS‘24, TrustCom'25, HPCC'25
-- Journal: IEEE TPDS, IEEE TC, IEEE IoTJ, IEEE TAI
+- Conference: **ICLR'27, NeurIPS'26 (Top Reviewer), AAAI'27, ICML'26 (Gold Reviewer), ICLR'26, AAAI'26,** ICA3PP’26, ICDCS‘24, TrustCom'25, HPCC'25
+- Journal: IEEE TMC, IEEE TPDS, IEEE TC, IEEE IoTJ, IEEE TAI
 
 ### Supervision
 Mentored an undergraduate student ([Harry Min](https://www.linkedin.com/in/harry-min/)) from the University of Cambridge on a summer research project 
